@@ -1,7 +1,7 @@
-# Kütüphane Otomasyon Sistemi
+# Kütüphane Otomasyon Sistemi Ödevi
 
 Bu proje, C++ Qt kütüphanesi kullanılarak geliştirilmiş bir kütüphane otomasyon sistemidir. Kütüphane üyelerini, kitapları ve ödünç alma ile iade etme işlemlerini yönetir. Proje, veri depolama ve geri çağırma işlemleri için veri tabanı entegrasyonu içermektedir.
-
+Projeyi çalıştırmadan önce .db uzantılı dosyayı build dosyanızın içerisine aktarınız!!!
 ## Özellikler
 
 1. **Giriş Ekranı**
